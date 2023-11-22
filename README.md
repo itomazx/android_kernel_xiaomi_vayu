@@ -10,7 +10,7 @@ Features:
 - Add USB Force Fast Charging from <a href="https://github.com/Pierre2324/NGK_android_kernel_xiaomi_sm8150">NGK Kernel</a>
 - Add Boeffla Wakelock Blocker v1.1.0 and Blocked List from <a href="https://github.com/Pierre2324/NGK_android_kernel_xiaomi_sm8150">NGK Kernel</a>
 - Boost DDR bus to 2133MHz from <a href="https://github.com/Pierre2324/NGK_android_kernel_xiaomi_sm8150">NGK Kernel</a>
-- Apply GPU Overclock (692 MHz), Undervolt and Add low frequency for power saving (142 MHz & 192 MHz)
+- <s>Apply GPU Overclock (692 MHz), Undervolt and Add low frequency for power saving (142 MHz & 192 MHz)</s>, not work
 
 Credits:
 * Thanks to <a href="https://github.com/nullxception">nullxception</a> for Base Kernel
