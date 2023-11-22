@@ -16,7 +16,7 @@ Credits:
 * Thanks to <a href="https://github.com/nullxception">nullxception</a> for Base Kernel
 * Thanks to <a href="https://github.com/clhexftw">clhex</a> for Rectilia Kernel source
 * Thanks to <a href="https://github.com/Pierre2324">Pierre2324</a> for NGK Kernel source
-* Thanks to <a href="https://github.com/areyoudeveloper/">areyoudeveloper</a> for Kernel source
-* Thanks to <a href="https://github.com/rmnscnce">rmnscnce</a>, <a href="https://github.com/LuffyTaro008">LuffyTaro008</a> for help and kernel source
+* Thanks to <a href="https://github.com/areyoudeveloper">areyoudeveloper</a> for Kernel source
+* Thanks to <a href="https://github.com/rmnscnce">rmnscnce</a>, <a href="https://github.com/LuffyTaro008">LuffyTaro008</a>, <a href="https://github.com/lllgts">lllgts</a>for help and kernel source
 
 Download <a href="https://t.me/itomazx_channelp">here</a>
